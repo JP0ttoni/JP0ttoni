@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jp0ttoni&show_icons=true&theme=gruvbox_light&locale=en" alt="jp0ttoni"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jp0ttoni&theme=gruvbox_light&show_icons=true&locale=en&layout=compact" alt="jp0ttoni"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jp0ttoni&show_icons=true&locale=en&layout=compact&theme=gruvbox_light" alt="jp0ttoni"  />
 </div>
 
 ###
